@@ -5,6 +5,6 @@
 
 
 ### CG包网,PC28,JND28游戏应有尽有.
-![Awesome Gatsby](img/H5前台.png 'Awesome Gatsby')
-![Awesome Gatsby](img/后台1.png 'Awesome Gatsby')
-![Awesome Gatsby](img/我的1.png 'Awesome Gatsby')
+![演示图片](img/H5前台.png '演示图片')
+![演示图片](img/后台1.png '演示图片')
+![演示图片](img/我的1.png '演示图片')
